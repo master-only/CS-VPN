@@ -1,4 +1,4 @@
-# CS-VPN V.1.1
+# VERSION V.1.1
 <a href="https://github.com/master-only/CS-VPN/raw/main/CS-VPN.apk" target="_blank">ดาวน์โหลดแอพ</a>
 # รองรับซิม
 <UL type = "square">
