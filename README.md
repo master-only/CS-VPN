@@ -1,4 +1,4 @@
-# VERSION V.1.1
+# Version 1.1
 <a href="https://github.com/master-only/CS-VPN/raw/main/CS-VPN.apk" target="_blank">ดาวน์โหลดแอพ</a>
 ติดตั้งอัพเดทไฟล์
 # รองรับซิม
@@ -6,5 +6,5 @@
     <LI> AIS
     <LI> DTAC
     <LI> TRUE
-    <LI> SERVER Auto Reboot ON5.00
+    <LI> SERVER Auto Reboot ON 5.00
 
