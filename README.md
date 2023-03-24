@@ -6,4 +6,4 @@
     <LI> DTAC
     <LI> TRUE
     <LI> SERVER Auto Reboot ON 5.00
-</UL>
+
